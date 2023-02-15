@@ -1,4 +1,4 @@
-### Hi there,I'm Beyza 👋
+### Hi there,I'm Beyza <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
 
 # 💫About Me :
 - 🔭 I’m currently working on a disease detection project.
