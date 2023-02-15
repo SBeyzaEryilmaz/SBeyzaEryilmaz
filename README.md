@@ -7,7 +7,8 @@
 - 😄 Pronouns: She/Her
 
 
-🔗 &nbsp;**Connect with me**
+🔗 &nbsp;**Connect with me**:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/s-beyza-eryılmaz-0950a5228) 
 
 # 💻Skills:
