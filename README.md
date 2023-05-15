@@ -9,7 +9,7 @@
 
 🔗 &nbsp;**Connect with me**:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/s-beyza-eryılmaz-0950a5228) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/selvinaz-beyza-eryılmaz-0950a5228) 
 
 # 💻Skills:
 [![My Skills](https://skillicons.dev/icons?i=py,vscode,html,mysql,mongodb,sqlite,bootstrap)](https://skillicons.dev)
