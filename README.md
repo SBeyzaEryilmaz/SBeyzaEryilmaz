@@ -12,7 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/selvinaz-beyza-eryılmaz-0950a5228) 
 
 # 💻Skills:
-[![My Skills](https://skillicons.dev/icons?i=py,vscode,html,mysql,mongodb,sqlite,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,vscode,html,microsoft sql server,bootstrap,jupyter notebook)](https://skillicons.dev)
 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=SBeyzaEryilmaz&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
