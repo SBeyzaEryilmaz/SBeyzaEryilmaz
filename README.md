@@ -1,8 +1,7 @@
 ### Hi there,I'm Beyza <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 20px>
 
 # 💫About Me :
-- 🔭 I’m currently working on a disease detection project.
-- 🌱 I’m currently learning AI,machine learning and deep learning.
+- 🌱 I'm generally interested in machine learning, deep learning and natural language processing.
 - 📫 How to reach me: Email-beyza.erylmaz067@gmail.com
 - 😄 Pronouns: She/Her
 
