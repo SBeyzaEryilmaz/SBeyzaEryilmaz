@@ -14,10 +14,10 @@
 [![My Skills](https://skillicons.dev/icons?i=py,vscode,html,git,bootstrap,tensorflow)](https://skillicons.dev)
 
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=SBeyzaEryilmaz&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SBeyzaEryilmaz&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SBeyzaEryilmaz&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
+![Beyza's GitHub stats](https://github-readme-stats.vercel.app/api?username=SBeyzaEryilmaz&show_icons=true&theme=highcontrast)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SBeyzaEryilmaz&langs_count=8)
 ---
 ![](https://komarev.com/ghpvc/?username=SBeyzaEryilmaz&style=flat)
 
