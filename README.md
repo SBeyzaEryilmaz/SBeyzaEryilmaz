@@ -11,13 +11,14 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/selvinaz-beyza-eryılmaz-0950a5228) 
 
 # 💻Skills:
-[![My Skills](https://skillicons.dev/icons?i=py,vscode,html,git,bootstrap,tensorflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,vscode,docker,git,github,tensorflow,pytorch)](https://skillicons.dev)
 
 # 📊GitHub Stats :
 
-![Beyza's GitHub stats](https://github-readme-stats.vercel.app/api?username=SBeyzaEryilmaz&show_icons=true&theme=highcontrast)
+![Beyza's GitHub stats](https://github-readme-stats.vercel.app/api?username=SBeyzaEryilmaz&show_icons=true&theme=merko)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SBeyzaEryilmaz&langs_count=8)
+
+
 ---
 ![](https://komarev.com/ghpvc/?username=SBeyzaEryilmaz&style=flat)
 
