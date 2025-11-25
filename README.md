@@ -13,10 +13,6 @@
 # 💻Skills:
 [![My Skills](https://skillicons.dev/icons?i=py,vscode,docker,git,github,tensorflow,pytorch)](https://skillicons.dev)
 
-# 📊GitHub Stats :
-
-![Beyza's GitHub stats](https://github-readme-stats.vercel.app/api?username=SBeyzaEryilmaz&show_icons=true&theme=merko)
-
 
 
 ---
